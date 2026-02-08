@@ -1,0 +1,13 @@
+# Ignore Python Virtual Environment (The Toolbox)
+backend/venv/
+
+# Ignore Compiled Python files (Junk)
+backend/__pycache__/
+*.pyc
+
+# Ignore Frontend Dependencies (Heavy)
+frontend/node_modules/
+frontend/dist/
+
+# Ignore System Files
+.DS_Store
