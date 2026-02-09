@@ -72,7 +72,7 @@ This isn't just a tech demo. EQ-Vision has immediate applications in:
 ## 📸 Interface Preview
 
 <div align="center">
-  <img src="./screenshot.png" alt="EQ-Vision Dashboard" width="800" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.5);">
+  <img src="./screenshot1.png" alt="EQ-Vision Dashboard" width="800" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.5);">
   <p><i>Fig 1. The EQ-Vision Command Center showing real-time biometric analysis.</i></p>
 </div>
 
