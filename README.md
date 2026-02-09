@@ -115,10 +115,10 @@ npm run dev
 ## 👨‍💻 Contributors
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://github.com/YOUR_USERNAME.png?size=100" width="50" height="50" style="border-radius: 50%;" alt="Your Name"/>
+  <img src="https://github.com/electrifiedchan.png?size=100" width="50" height="50" style="border-radius: 50%;" alt="Your Name"/>
 </a>
 
-**[Electrifiedchan]** 
+**[electrifiedchan]** 
 
 ---
 
